@@ -1,0 +1,22 @@
+.left-nav {
+    padding-left: 1.5rem;
+}
+.right-nav {
+    justify-content: flex-end!important;
+}
+.navbar-brand {
+    padding: 0.50rem 1.5rem!important;
+}
+.nav-link {
+    padding: 0.75rem 1.5rem!important;
+}
+.phone {
+    font-size: 15px;
+    margin-right: 5%;
+}
+.email {
+    font-size: 17px;
+}
+.disclaimer {
+    font-size: 0.8rem;
+}

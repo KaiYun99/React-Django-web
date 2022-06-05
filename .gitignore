@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/pyenv
+/node_modules
+/deployment
+pyvenv.cfg
+/Lib
+/Scripts
